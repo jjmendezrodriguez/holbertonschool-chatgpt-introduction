@@ -19,24 +19,31 @@ This project focuses on two pivotal aspects of software development: debugging a
 ## Tasks
 
 0. Debugging - Python Factorial
+
     Using ChatGPT to identify and correct errors in code.
 
 1. Debugging - Python Arguments
+
     Use ChatGPT to identify and correct errors in code samples.
 
 2. Debugging - HTML / Javascript
+
     Use ChatGPT to identify and correct errors in code samples.
 
 3. Debugging - Python Mines
+
     Use ChatGPT to identify and correct errors in code samples.
 
 4. Documentation - Python Factorial
+
     Use ChatGPT to document the code
 
 5. Error Handling - Python Checkbook
+
     Use ChatGPT to document the code
 
 6. Debugging - Tic Tac Toe Python
+
     Use ChatGPT to identify and correct errors in code samples. (There may be several errors on the code)
 
 
