@@ -4,9 +4,11 @@
 
 * README.md
 
-* debugging
+## Directories:
 
-    This file containg the task files:
+* [debugging](./debugging/)
+
+This Directory containg the task files:
 
     * README.md
     * change_background.html
