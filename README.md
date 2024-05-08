@@ -9,7 +9,6 @@
 * [debugging](./debugging/)
 
 This Directory containg the task files:
-
     *[README.md](./debugging/README.md)
     *[change_background.html](./debugging/change_background.html)
     *[checkbook.py](./debugging/checkbook.py)
