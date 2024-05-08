@@ -22,9 +22,9 @@ This project focuses on two pivotal aspects of software development: debugging a
 
     The code calculates the factorial of a number given as a command-line argument and prints the result. It seems correct for its intended purpose. However, to ensure it's fully functional, I'll outline a few key aspects:
 
- * Command-Line Argument Handling: The script expects an argument when run. If no argument is provided, it will raise an error. It's good practice to add error handling to check if the argument is provided and if it's a valid integer.
+     * Command-Line Argument Handling: The script expects an argument when run. If no argument is provided, it will raise an error. It's good practice to add error handling to check if the argument is provided and if it's a valid integer.
 
- * Non-Positive Integers: The function does not explicitly handle cases where the input is zero or negative. The factorial of zero should be 1, and factorials of negative numbers are not defined.
+     * Non-Positive Integers: The function does not explicitly handle cases where the input is zero or negative. The factorial of zero should be 1, and factorials of negative numbers are not defined.
 
 1. Debugging - Python Arguments
 
