@@ -28,26 +28,24 @@ This project focuses on two pivotal aspects of software development: debugging a
 
 1. Debugging - Python Arguments
 
-  In this version, range(1, len(sys.argv)) starts the loop from index 1 instead of index 0, effectively skipping the script's filename (sys.argv[0]) and only printing the arguments passed to the script.
+    In this version, range(1, len(sys.argv)) starts the loop from index 1 instead of index 0, effectively skipping the script's filename (sys.argv[0]) and only printing the arguments passed to the script.
 
 2. Debugging - HTML / Javascript
 
-  Changing the background color of the page each time the button is clicked.
+    Changing the background color of the page each time the button is clicked.
 
 3. Debugging - Python Mines
 
-  This should correctly handle the gameplay logic, including determining when a player has won the game by revealing all non-mine cells.
+    This should correctly handle the gameplay logic, including determining when a player has won the game by revealing all non-mine cells.
 
 4. Documentation - Python Factorial
 
-  A brief summary of what the factorial function does, explaining the concept of factorial and the method used (recursion).
+    A brief summary of what the factorial function does, explaining the concept of factorial and the method used (recursion).
 
 5. Error Handling - Python Checkbook
 
-  Mini program Checkbook for track the money. 
+    Mini program Checkbook for track the money. 
 
 6. Debugging - Tic Tac Toe Python
 
-  Fix erros and play the game Tic Tac Toe successfully. 
-
-
+    Fix erros and play the game Tic Tac Toe successfully. 
