@@ -20,30 +20,34 @@ This project focuses on two pivotal aspects of software development: debugging a
 
 0. Debugging - Python Factorial
 
-    Using ChatGPT to identify and correct errors in code.
+    The code calculates the factorial of a number given as a command-line argument and prints the result. It seems correct for its intended purpose. However, to ensure it's fully functional, I'll outline a few key aspects:
+
+* Command-Line Argument Handling: The script expects an argument when run. If no argument is provided, it will raise an error. It's good practice to add error handling to check if the argument is provided and if it's a valid integer.
+
+* Non-Positive Integers: The function does not explicitly handle cases where the input is zero or negative. The factorial of zero should be 1, and factorials of negative numbers are not defined.
 
 1. Debugging - Python Arguments
 
-    Use ChatGPT to identify and correct errors in code samples.
+  In this version, range(1, len(sys.argv)) starts the loop from index 1 instead of index 0, effectively skipping the script's filename (sys.argv[0]) and only printing the arguments passed to the script.
 
 2. Debugging - HTML / Javascript
 
-    Use ChatGPT to identify and correct errors in code samples.
+  Changing the background color of the page each time the button is clicked.
 
 3. Debugging - Python Mines
 
-    Use ChatGPT to identify and correct errors in code samples.
+  This should correctly handle the gameplay logic, including determining when a player has won the game by revealing all non-mine cells.
 
 4. Documentation - Python Factorial
 
-    Use ChatGPT to document the code
+  A brief summary of what the factorial function does, explaining the concept of factorial and the method used (recursion).
 
 5. Error Handling - Python Checkbook
 
-    Use ChatGPT to document the code
+  Mini program Checkbook for track the money. 
 
 6. Debugging - Tic Tac Toe Python
 
-    Use ChatGPT to identify and correct errors in code samples. (There may be several errors on the code)
+  Fix erros and play the game Tic Tac Toe successfully. 
 
 
