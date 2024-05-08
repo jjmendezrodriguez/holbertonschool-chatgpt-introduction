@@ -2,9 +2,11 @@
 
 ## Files:
 
-* README
+* README.md
 
 * debugging
+
+    This file containg the task files:
 
     * README.md
     * change_background.html
