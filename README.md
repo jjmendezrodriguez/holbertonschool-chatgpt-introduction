@@ -7,7 +7,6 @@
 ## Directories:
 
 * [debugging](./debugging/)
-
 This Directory containg the task files:
 
    * [README.md](./debugging/README.md)
